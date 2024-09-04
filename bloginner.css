@@ -1,0 +1,246 @@
+*{
+margin: 0;
+padding: 0;
+font-family: "poppins",sans-serif;
+}
+
+.branding-text1{
+    height: 250px;
+    width: 90%;
+    border:1px solid rgba(0, 0, 0, 0.712);
+    border-radius: 30px;
+    margin-left: 30px;
+    color: #3A3A3A;
+    margin-top: 15px;
+    text-align: center;
+}
+.branding-text1 button{
+    height: 35px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: #FFF59A;
+    color: #3A3A3A;
+    margin-top: 18px;
+    margin-left: 500px;
+}
+.date1{
+    margin-top: 20px;
+    margin-left: 20px; 
+    color: #3A3A3A;
+ 
+}
+.date1 p{
+font-size: 15px;
+}
+.date-date1{
+    display: flex;
+}
+.para h1{
+    font-size: 50px;
+    font-weight: 300;
+    justify-content: space-between;
+}
+.picture img{
+    height: 600px;
+    width:75%;
+    border-radius: 30px;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+.heading{
+    
+    margin-top: 80px;
+    margin-left: 150px;
+
+}
+.heading h1{
+font-size: 30px;
+}
+.heading p{
+    font-size: 18px;
+    font-family: "poppins",sans-serif;
+    justify-content: space-between;
+}
+.video{
+    margin-left: 180px;
+    border-radius: 40px;
+    margin-top: 80px;
+}
+.new-business{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: "poppins",sans-serif;
+    font-size: 18px;
+}
+.para{
+    margin-top: 15px;
+    margin-left: 150px;
+}
+.new-business h2{
+font-size: 30px;
+font-weight: 400;
+}
+.new-business p{
+    margin-top: 10px;
+}
+.box{
+    height: 200px;
+    width: 80%;
+    border-radius: 30px;
+    border: 1px solid black;
+    margin-left: 120px;
+    margin-top: 20px;
+    text-align: center;
+}
+.box h3{
+    margin-top: 60px;
+    font-weight: 600;
+}
+.box-para p{
+    margin-top: 50px;
+    text-align:left;
+    margin-left: 150px;
+    font-size: 18px;
+}
+
+.main2{
+    margin-top: 80px;
+}
+.marketing-img img{
+    height: 199px;
+    width: 270px;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+.marketing-text{
+    height: 100px;
+    width: 270px;
+    border:1px solid rgba(0, 0, 0, 0.712);
+    border-radius: 30px;
+    margin-left: 50px;
+    color: #3A3A3A;
+    margin-top: 15px;
+}
+.marketing-text button{
+    height: 25px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: #FFF59A;
+    color: #3A3A3A;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+
+.date2{
+    margin-top: 15px;
+    margin-left: 15px; color: #3A3A3A;
+ 
+}
+.date2 p{
+font-size: 15px;
+}
+.date-date2{
+    display: flex;
+}
+
+.main3{
+    margin-top: 80px;
+}
+
+.customer-text button{
+    height: 25px;
+    width: 10px;
+    border-radius: 10px;
+    background-color: #FFF59A;
+    color: #3A3A3A;
+    margin-top: 18px;
+    margin-left: 18px;
+
+}
+
+.branding-img img{
+    height: 199px;
+    width: 270px;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+.branding-text{
+    height: 100px;
+    width: 270px;
+    border:1px solid rgba(0, 0, 0, 0.712);
+    border-radius: 30px;
+    margin-left: 50px;
+    color: #3A3A3A;
+    margin-top: 15px;
+}
+.branding-text button{
+    height: 25px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: #FFF59A;
+    color: #3A3A3A;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+
+.main4{
+    margin-top: 80px;
+}
+
+.data-img img{
+    height: 199px;
+    width: 270px;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+.data-text{
+    height: 100px;
+    width: 270px;
+    border:1px solid rgba(0, 0, 0, 0.712);
+    border-radius: 30px;
+    margin-left: 50px;
+    color: #3A3A3A;
+    margin-top: 15px;
+}
+.data-text button{
+    height: 25px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: #FFF59A;
+    color: #3A3A3A;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+
+.main5{
+    margin-top: 80px;
+}
+
+.customer-img img{
+    height: 199px;
+    width: 270px;
+    margin-left: 50px;
+    border-radius: 40px;
+}
+.customer-text{
+    height: 100px;
+    width: 270px;
+    border:1px solid rgba(0, 0, 0, 0.712);
+    border-radius: 30px;
+    margin-left: 50px;
+    color: #3A3A3A;
+    margin-top: 15px;
+}
+.customer-text button{
+    height: 25px;
+    width: 70px;
+    border-radius: 10px;
+    background-color: #FFF59A;
+    color: #3A3A3A;
+    margin-top: 18px;
+    margin-left: 18px;
+}
+
+.pictures{
+    display: flex;
+}
